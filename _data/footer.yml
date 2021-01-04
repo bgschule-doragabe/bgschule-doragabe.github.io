@@ -1,4 +1,6 @@
-- menu_name: "Services"
+- name: "За нас"
+  url: "/info/"
+  title: "За нас"
 
 - name: "Контакт"
   url: "/contact/"
@@ -11,4 +13,3 @@
 - name: "Декларация за поверителност"
   url: "/Datenschutzerklaerung/"
   title: "Декларация за поверителност"
-
