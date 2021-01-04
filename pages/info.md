@@ -5,7 +5,7 @@ subheadline: "Българско училище в Мюнхен „Дора Га
 teaser: "Българско училище в Мюнхен „Дора Габе“"
 permalink: "/info/"
 header:
-    image_fullwidth: "https://bgschule-doragabe.github.io/novini_header.jpg"
+    image_fullwidth: "novini_header.jpg"
 ---
 
 
