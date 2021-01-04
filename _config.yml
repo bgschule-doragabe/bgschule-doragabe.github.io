@@ -40,12 +40,13 @@ improve_content: https://github.com/bgschule-doragabe/bgschule-doragabe.github.i
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
+
 urlimg: 'https://bgschule-doragabe.github.io/images/'
 #'https://phlow.github.io/feeling-responsive/images/'
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+#logo: "logo.png"
 
 # Plugins
 plugins:
