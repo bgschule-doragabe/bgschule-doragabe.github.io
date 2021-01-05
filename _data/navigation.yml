@@ -2,6 +2,9 @@
   url: "/"
   side: left
 
+- title: Новини
+  url: "/blog/"
+  side: left
 
 - title: "Училището"
   url: "/uchilisteto/"
@@ -34,6 +37,6 @@
   side: left
   
 
-- title: "Contact"
+- title: "Контакт"
   url: "/contact/"
   side: right
