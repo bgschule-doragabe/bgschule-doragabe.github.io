@@ -9,17 +9,46 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-<div class="row t60" >
-    <div class="small-12 columns">
-        <h1>Добре дошли</h1>  
-          
-        Българско училище в Мюнхен „Дора Габе“ е инициатива на родители и учители, коятo има за цел да предостави възможност на деца в Мюнхен да учат български език.
-        Предлагаме редовно обучение по български език и литература, география и икономика, история и цивилизация.
-        Абонирани сме за образователен сайт №1 в България „Уча.се“ и предлагаме видео уроци и тестове, като допълнение към традиционните методи на преподаване.  
-        <strong>Адрес:</strong> Hamburger Str. 32, 80809 München</p>  
-        <strong>Имейл</strong>: <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a>
-    </div>
-</div>
+
+{% comment %}
+*
+* First check, if widget is empty or not by checking if there is a title
+*
+{% endcomment %}
+<div class="row t60">
+	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
+		{% include _frontpage-widget.html widget=page.widget1 %}
+	{% endif %}
+
+	{% if page.widget2.image or page.widget2.video or page.widget2.title %}
+		{% include _frontpage-widget.html widget=page.widget2 %}
+	{% endif %}
+
+	{% if page.widget3.image or page.widget3.video or page.widget3.title %}
+		{% include _frontpage-widget.html widget=page.widget3 %}
+	{% endif %}
+</div><!-- /.row -->
+
+
+
+{% comment %}
+*
+* First check, if there is a call for action-button
+*
+{% endcomment %}
+{% if page.callforaction.url contains 'http' %}
+{% assign url = '' %}
+{% else %}
+{% capture url %}{{ site.url }}{{ site.baseurl }}{% endcapture %}
+{% endif %}
+{% if page.callforaction %}
+    <div class="row t60 b60">
+        <div class="small-12 text-center columns">
+            <a class="button large radius {{ page.callforaction.style }}" href="{{ url }}{{ page.callforaction.url }}"{% if page.callforaction.url contains 'http' %} target="_blank" {% endif %}>{{ page.callforaction.text }}</a>
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+{% endif %}
+
 
 
 {% comment %}

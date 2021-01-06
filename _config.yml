@@ -41,7 +41,7 @@ improve_content: https://github.com/bgschule-doragabe/bgschule-doragabe.github.i
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 
-urlimg: 'https://bgschule-doragabe.github.io/images/'
+urlimg: 'https://bgschule-doragabe.github.io/content/images/'
 #'https://phlow.github.io/feeling-responsive/images/'
 
 
@@ -84,7 +84,7 @@ exclude:
 
 
 # The language setting is used in /includes/header.html for html-settings
-language: 'de'
+language: 'bg'
 
 
 # Used › default.html front-matter and compress.html

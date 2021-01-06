@@ -3,9 +3,12 @@ layout: page
 #
 # Content
 #
-# subheadline: "Video & Music Player"
 title: "Първи учебен ден 2020/2021"
 teaser: "За осма поредна година имаме честта и удоволствието да отворим врати за децата, желаещи да навлязат в необятния свят на знанието."
+permalink: "/gallerys/gallery_202009_parvi_ud"
+#
+# Gallery
+#
 image:
    thumb: "202009_parvi_ud/IMG_0475-thumb.jpg"
 gallery:
@@ -14,11 +17,14 @@ gallery:
     - image_url: 202009_parvi_ud/IMG_0478.jpg
     - image_url: 202009_parvi_ud/IMG_0482.jpg
     - image_url: 202009_parvi_ud/IMG_0504.jpg
+#
+# Styling
+#
+
+#
+# Metainformation & Customization
+#
+
 ---
-
-
-Щастливи сме да запалим пламъка на любопитството и интереса към българския език и култура. С радост отново ще бъдем спътници по пътя към познанието.
-Добре дошли!
-
 
 {% include gallery %}
