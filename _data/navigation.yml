@@ -27,14 +27,19 @@
 - title: Дружеството
   url: "/drujestvoto/"
   side: left
+  dripdown:
+    -title: "Дружеството"
+    url: "/drujestvoto"
+    -title: "Устав"
+    url: "/content/Satzung.pdf" 
 
 - title: "Галерия"
   url: "/gallerys/"
   side: left
 
-- title: Календар
-  url: "/kalendar/"
-  side: left
+# - title: Календар
+#   url: "/kalendar/"
+#   side: left
   
 
 - title: "Контакт"

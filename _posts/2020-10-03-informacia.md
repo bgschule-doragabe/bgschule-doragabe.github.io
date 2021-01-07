@@ -1,9 +1,7 @@
 ---
 layout: page
-#
-# Content
-#
-# subheadline: "Video & Music Player"
+header:
+    image_fullwidth: "dg_logo_grl.png"
 title: "Информация за 03. Октомври"
 teaser: "3-ти октомври е учебен за БУ “Дора Габе“ ПУГ2 започва занятия."
 ---
