@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Добре дошли"
-subheadline: "Българско училище в Мюнхен „Дора Габе“"
 teaser: "Българско училище в Мюнхен „Дора Габе“"
 permalink: "/info/"
 header:

@@ -7,7 +7,7 @@
   side: left
 
 - title: "Училището"
-  url: "/uchilisteto/"
+  url: "/uchilisteto/za_nas/"
   side: left
   dropdown:
   - title: "За нас"

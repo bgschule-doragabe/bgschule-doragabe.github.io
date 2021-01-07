@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Документи"
-teaser: "Българско училище в Мюнхен „Дора Габе“"
 permalink: "uchilisteto/dokumenti/"
 header:
     image_fullwidth: "novini_header.jpg"
