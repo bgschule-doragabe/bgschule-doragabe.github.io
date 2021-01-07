@@ -36,7 +36,7 @@ header:
         Тук ще намерите регистрационната форма<br/>
         За записване и информация<br/>
         Телефон:  0176/45645440<br/>
-         <a href="mailto:info@bgschule-doragabe-muenchen.de">Имейл: info@bgschule-doragabe-muenchen.de</a><br/>
+        <a href="mailto:info@bgschule-doragabe-muenchen.de">Имейл: info@bgschule-doragabe-muenchen.de</a><br/>
 
         <h2> Отписване</h2>
         При напускане на училището, моля попълнете следния формуляр<br/>
