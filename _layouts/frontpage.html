@@ -10,15 +10,21 @@ format: frontpage
 </div><!-- /#header-home -->
 
 <div class="row t60" >
-    <div class="small-12 columns">
+    <div class="medium-12 columns">
         <h1>Добре дошли</h1>  
-          
+    </div>
+      <div class="medium-8 columns t30"> 
         Българско училище в Мюнхен „Дора Габе“ е инициатива на родители и учители, коятo има за цел да предостави възможност на деца в Мюнхен да учат български език.
         Предлагаме редовно обучение по български език и литература, география и икономика, история и цивилизация.  <br/>
         Абонирани сме за образователен сайт №1 в България „Уча.се“ и предлагаме видео уроци и тестове, като допълнение към традиционните методи на преподаване. <br/>  
         <strong>Адрес:</strong> Hamburger Str. 32, 80809 München <br/>
-        <strong>Имейл</strong>: <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a>
-    </div>
+        <strong>Имейл</strong>: <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a><br/>
+        </div>
+        <div class="medium-4 columns t30">
+            <img class="b30" src="{{ site.urlimg }}nachalo.jpg" alt="">
+             <img  src="{{ site.urlimg }}Ucha_se_logo.jpg" alt="" style="position: absolute; bottom:1.8375rem;left:0.9375rem;" width="75px;">
+      </div><!-- /.medium-5.columns -->
+   
 </div>
 
 
@@ -52,7 +58,7 @@ format: frontpage
 
     <div class="row">
         <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.posts limit:2 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
