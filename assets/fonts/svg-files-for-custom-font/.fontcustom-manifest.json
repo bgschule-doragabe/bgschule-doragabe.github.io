@@ -149,7 +149,11 @@
     "paper-plane": {
       "codepoint": 61724,
       "source": "./paper-plane.svg"
-    },
+    }, 
+    "paypal": {
+     "codepoint": 61760,
+     "source": "./paypal.svg"
+   },
     "pinterest": {
       "codepoint": 61701,
       "source": "./pinterest.svg"

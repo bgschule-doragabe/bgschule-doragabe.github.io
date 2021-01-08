@@ -26,7 +26,8 @@ author: ElenaSap
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://bgschule-doragabe.github.io/'
+#url: 'https://bgschule-doragabe.github.io/'
+url: 'https://bgschule-doragabe-muenchen.de/'
 baseurl: ''   
 #'/feeling-responsive'
 
@@ -41,7 +42,7 @@ improve_content: https://github.com/bgschule-doragabe/bgschule-doragabe.github.i
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-
+urlimg: 'https://bgschule-doragabe-muenchen.de/content/images/'
 urlimg: 'https://bgschule-doragabe.github.io/content/images/'
 #'https://phlow.github.io/feeling-responsive/images/'
 
@@ -87,7 +88,11 @@ exclude:
 # The language setting is used in /includes/header.html for html-settings
 language: 'bg'
 
-
+#Donate 
+donations:
+  paypal:
+    text: Дари през PayPal     # Button text
+    id: DKN2UJ8T59L9Y
 # Used › default.html front-matter and compress.html
 # Options › http://jch.penibelst.de
 compress_html:

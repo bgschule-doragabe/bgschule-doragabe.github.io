@@ -158,6 +158,10 @@
       "codepoint": 61730,
       "source": "svg-files-for-custom-font/paper-plane.svg"
     },
+    "paypal": {
+      "codepoint": 61760,
+      "source": "svg-files-for-custom-font/paypal.svg"
+    },
     "pinterest": {
       "codepoint": 61731,
       "source": "svg-files-for-custom-font/pinterest.svg"

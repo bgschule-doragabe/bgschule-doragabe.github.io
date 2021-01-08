@@ -257,7 +257,6 @@ li {
 }
 
 dl {
-
 }
 dt:first-child {
     padding-top: 0px;
@@ -453,7 +452,8 @@ mark {
 .icon-message:before,
 .icon-mic:before,
 .icon-network:before,
-.icon-paper-plane:before,
+.icon-paper-plane:before, 
+.icon-paypal:before,
 .icon-pinterest:before,
 .icon-price-tag:before,
 .icon-rocket:before,
@@ -483,7 +483,7 @@ text-rendering: optimizeLegibility;
 text-transform: none;
 -moz-osx-font-smoothing: grayscale;
 -webkit-font-smoothing: antialiased;
-font-smoothing: antialiased;
+-font-smoothing: antialiased;
 }
 
 .icon-archive:before { content: "\f100"; }
@@ -523,6 +523,7 @@ font-smoothing: antialiased;
 .icon-mic:before { content: "\f120"; }
 .icon-network:before { content: "\f121"; }
 .icon-paper-plane:before { content: "\f122"; }
+.icon-paypal:before { content: "\f140"; }
 .icon-pinterest:before { content: "\f123"; }
 .icon-price-tag:before { content: "\f124"; }
 .icon-rocket:before { content: "\f125"; }

@@ -23,6 +23,11 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
+ - name: PayPal
+   url: https://www.paypal.com/donate?hosted_button_id=DJDYZD6C2C6D8
+   class: icon-paypal
+   title: "Дарете през PayPal"
+
  - name: Facebook
    url: https://www.facebook.com/Bulgarische-Schule-in-M%C3%BCnchen-Dora-Gabe-eV-514304435325397
    class: icon-facebook

@@ -27,11 +27,11 @@
 - title: Дружеството
   url: "/drujestvoto/"
   side: left
-  dripdown:
-    -title: "Дружеството"
-    url: "/drujestvoto"
-    -title: "Устав"
-    url: "/content/Satzung.pdf" 
+  dropdown:
+    - title: "Кои сме ние"
+      url: "/drujestvoto/"
+    - title: "Устав"
+      url: "https://bgschule-doragabe-muenchen.de/content/Satzung.pdf"
 
 - title: "Галерия"
   url: "/gallerys/"
