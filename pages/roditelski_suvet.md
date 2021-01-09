@@ -20,3 +20,11 @@ header:
 
 С благодарност и уважение,
 Родителски съвет към Българско училище „Дора Габе“ – Мюнхен
+<div class="small-6 columns t30">
+    <img class="b30" src="{{ site.urlimg }}uch_lavka.jpg" alt=""><br/>
+    Училищна лавка
+</div>
+<div class="small-6 columns t30">
+    <img class="b30" src="{{ site.urlimg }}koleden_bazar.jpg" alt=""><br/>
+    Коледн базар
+</div>
