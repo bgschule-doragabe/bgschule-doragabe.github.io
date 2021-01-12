@@ -40,4 +40,10 @@ gallery:
 
 ---
 
+
+<div class="custom-flex-video-class">
+  <iframe src="{{ site.urlimg }}201912_koleda/koleda19.mp4" width="640" height="368" frameborder="0"   allowFullScreen></iframe>
+</div>
+
+
 {% include gallery %}
