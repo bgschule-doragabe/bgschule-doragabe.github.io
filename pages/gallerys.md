@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: "Галерия"
-permalink: "/gallerys/"
+permalink: "gallerys/"
 #
 # Styling
 #

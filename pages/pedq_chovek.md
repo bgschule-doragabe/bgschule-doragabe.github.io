@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Група „Педя човек“"
-permalink: "/uchilisteto/pedq_chovek/"
+permalink: "uchilisteto/pedq_chovek/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: "Контакт с нас"
 meta_title: "Българско училище в Мюнхен „Дора Габе“"
-permalink: "/contact/"
+permalink: "contact/"
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Imressum"
-permalink: "/impressum/"
+permalink: "impressum/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

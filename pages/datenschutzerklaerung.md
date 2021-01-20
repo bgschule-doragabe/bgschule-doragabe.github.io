@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Datenschutzerklärung"
-permalink: "/datenschutzerklaerung/"
+permalink: "datenschutzerklaerung/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

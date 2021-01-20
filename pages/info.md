@@ -2,7 +2,7 @@
 layout: page
 title: "Добре дошли"
 teaser: "Българско училище в Мюнхен „Дора Габе“"
-permalink: "/info/"
+permalink: "info/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

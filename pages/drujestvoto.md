@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Кои сме ние"
-permalink: "/drujestvoto/"
+permalink: "drujestvoto/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---
