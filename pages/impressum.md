@@ -14,7 +14,7 @@ Hamburger Str. 32
 80809 München  
 E-mail:info@bgschule-doragabe-muenchen.de  
 **Vertreten durch:**  
-Vorstand: Preslava Kostova und Angelina Ruggeri
+Vorstand: Preslava Kostova und Angelina Ruggeri  
 **Eingetragen am**  
 Registergericht München VR 205180  
 **Wirtschafts-Identifikationsnummer**  
