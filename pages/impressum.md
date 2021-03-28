@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Imressum"
+title: "Impressum"
 permalink: "impressum/"
 header:
     image_fullwidth: "novini_header.jpg"

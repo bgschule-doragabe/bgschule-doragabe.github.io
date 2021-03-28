@@ -26,5 +26,5 @@ header:
 </div>
 <div class="small-6 columns t30">
     <img class="b30" src="{{ site.urlimg }}koleden_bazar.jpg" alt=""><br/>
-    Коледн базар
+    Коледен базар
 </div>
