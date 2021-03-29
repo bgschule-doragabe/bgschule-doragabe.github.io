@@ -5,7 +5,7 @@ layout: page
 #
 title: "Коледно тържество 2019"
 teaser: ""
-permalink: "/gallerys/gallery_201912_koleda"
+permalink: "/gallerys/gallery_201912_koleda/"
 #
 # Gallery
 #

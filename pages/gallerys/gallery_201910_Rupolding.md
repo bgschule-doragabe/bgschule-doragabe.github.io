@@ -5,7 +5,7 @@ layout: page
 #
 title: "Екскурзия до Руполдинг 2019"
 teaser: ""
-permalink: "/gallerys/gallery_201910_Rupolding"
+permalink: "/gallerys/gallery_201910_Rupolding/"
 #
 # Gallery
 #

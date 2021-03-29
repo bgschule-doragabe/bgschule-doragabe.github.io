@@ -5,7 +5,7 @@ layout: page
 #
 title: "Първи учебен ден 2020/2021"
 teaser: "За осма поредна година имаме честта и удоволствието да отворим врати за децата, желаещи да навлязат в необятния свят на знанието."
-permalink: "/gallerys/gallery_202009_parvi_ud"
+permalink: "/gallerys/gallery_202009_parvi_ud/"
 #
 # Gallery
 #
