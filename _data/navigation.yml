@@ -37,6 +37,14 @@
   url: "/gallerys/"
   side: left
 
+- title: "Дарения"
+  url: "/donation/"
+  side: left
+
+- title: "Бюлетин"
+  url: "/newsletter/"
+  side: left
+
 # - title: Календар
 #   url: "/kalendar/"
 #   side: left
