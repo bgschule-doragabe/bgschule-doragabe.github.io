@@ -5,7 +5,13 @@ permalink: "/newsletter/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---
-
+Здравейте, приятели на Българско училище в Мюнхен „Дора Габе“  
+Благодарим Ви за интереса към нашето училище и  желанието да бъдете информирани за нашата дейност, резултати и постижения, както и за новости и възможности в областта на образованието и поддържането на българския бит и култура.  
+След като се абонирате за нашия бюлетин, ще получавате автоматично на електронната поща, която ни предоставите, следната информация:  
+* Последни новини с областта на образованието и културата зад граница;
+* Предстоящи събития, свързани с дейността на училището;
+* Предстоящи конкурси, възможности за стипендии и др.
+* Обяви за работа и доброволчески труд;
 <!-- Begin Sendinblue Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
 <style>
@@ -53,14 +59,13 @@ header:
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;,color:#3C4858;  sans-serif;background-color:transparent;">
             <div class="sib-text-form-block">
-              <p>&nbsp;Абонирайте се за нашият бюлетин.</p>
+              <p>&nbsp;Абонирайте се за нашия бюлетин.</p>
             </div>
           </div>
         </div>
         <div style="padding: 8px 0;">
           <div class="sib-form-block" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
             <div class="sib-text-form-block">
-              <p>-</p>
             </div>
           </div>
         </div>
@@ -69,7 +74,7 @@ header:
             <div class="form__entry entry_block">
               <div class="form__label-row ">
                 <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3c4858;" for="EMAIL" data-required="*">
-                  Въведете адреса към електронната ви поща за да се запишете
+                  Въведете Вашата електронна поща, за да се запишете
                 </label>
                 <div class="entry__field">
                   <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
@@ -144,3 +149,4 @@ header:
 </div>
 <!-- END - We recommend to place the below code where you want the form in your website html  -->
 <!-- End Sendinblue Form -->
+<sub>С настоящия абонамент за нашия Бюлетин, Вие се съгласявате да получавате информация на посочената от Вас електронна поща и Вашите данни да бъдат използвани и съхранени от Сдружение Българско училище „Дора Габе“  за тази цел. Можете да се отпишете или да се откажете от Бюлетина по всяко време директно в долната част на Бюлетина “Отказване от абонамента”. Законосъобразността на обработката на Вашите данни преди оттеглянето на съгласието Ви остава незасегната. </sub>

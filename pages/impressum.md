@@ -12,7 +12,7 @@ header:
 Bulgarische Schule in München „Dora Gabe“ e.V.  
 Hamburger Str. 32  
 80809 München  
-<a href="mailto:info@bgschule-doragabe-muenchen.de">Имейл: info@bgschule-doragabe-muenchen.de</a>
+<a href="mailto:info@bgschule-doragabe-muenchen.de">Имейл: info@bgschule-doragabe-muenchen.de</a>  
 **Vertreten durch:**  
 Vorstand: Preslava Kostova und Angelina Ruggeri  
 **Eingetragen am**  
