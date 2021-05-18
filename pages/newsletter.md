@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Бюлетин"
-permalink: "/newsletter/"
+permalink: "/razni/newsletter/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

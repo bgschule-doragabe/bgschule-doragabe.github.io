@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Дарения"
-permalink: "/donation/"
+permalink: "/razni/donation/"
 header:
     image_fullwidth: "novini_header.jpg"
 ---

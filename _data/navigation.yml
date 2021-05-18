@@ -22,9 +22,8 @@
     url: "/uchilisteto/roditelski_suvet/"
   - title: "Документи"
     url: "/uchilisteto/dokumenti/"
-  
 
-- title: Дружеството
+- title: "Дружеството"
   url: "/drujestvoto/"
   side: left
   dropdown:
@@ -36,14 +35,17 @@
 - title: "Галерия"
   url: "/gallerys/"
   side: left
-
-- title: "Дарения"
-  url: "/donation/"
+ 
+- title: "Разни"
+  url: "/razni/"
   side: left
-
-- title: "Бюлетин"
-  url: "/newsletter/"
-  side: left
+  dropdown:
+    - title: "Бюлетин"
+      url: "/razni/newsletter/"
+    - title: "Дарения"
+      url: "/razni/donation/"
+    - title: "Полезни връзки"
+      url: "/razni/links/"
 
 # - title: Календар
 #   url: "/kalendar/"
