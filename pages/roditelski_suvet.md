@@ -6,8 +6,6 @@ header:
     image_fullwidth: "novini_header.jpg"
 ---
 
-
-
 Мили родители,
 
 добре дошли на нашата страничка! Тук бихме искали да Ви се представим и разкажем малко повече за нас и нашата дейност.  
@@ -56,3 +54,4 @@ header:
 <div class="small-4 columns t30">
     <img class="b30" src="{{ site.urlimg }}rs_martenici.jpg" alt="">
 </div>
+

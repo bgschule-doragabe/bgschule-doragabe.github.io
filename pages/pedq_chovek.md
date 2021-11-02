@@ -21,4 +21,6 @@ header:
 За повече информация се обърнете към нас!  
 За записване и информация  
 
- <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a>
+ <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a>  
+ 
+ *През учебната 2021/2022г групата не може да бъде сформирана, поради изисквания на МЗ на Бавария.

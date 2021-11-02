@@ -8,10 +8,10 @@ header:
 
 
 <div class="row">
-	<div class="medium-4 columns t30">
+	<div class="medium-3 columns t30">
 		  <img class="b30" src="{{ site.urlimg }}MimaP.jpg" alt="">
 	</div><!-- /.medium-5.columns -->
-	<div class="medium-8 columns t30">
+	<div class="medium-9 columns">
 		<h2> Мима Пенчова</h2> <br/>
         <strong>педагогически ръководител <br/>
         (начална и предучилищна педагогика, квалификация за преподаване на български език като чужд) </strong> <br/>
@@ -21,23 +21,58 @@ header:
 </div><!-- /.row -->
 
 <div class="row">
-	<div class="medium-4 columns t30">
-		  <img class="b30" src="{{ site.urlimg }}Emilia_Mihailova.jpg" alt="">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}Ana_Andreeva.jpg" alt="">
 	</div><!-- /.medium-5.columns -->
-	<div class="medium-8 columns t30">
-		<h2>Емилия Михайлова-Проданова</h2> <br/>
-        <strong>Дългогодишен мениджър на театрални постановки. Ръководител на детски театрални групи. Сценарист и водещ на детски тържества, абитуриентски балове, сватби, юбилеи.</strong> <br/>
-        Общуването с млади хора и деца е предизвикателство, но всеки човек с творческа душа изпитва невероятно удовлетворение и вдъхновение от работата си с тях! Благодарна съм на всеки миг от живота си, прекаран в ТЕАТЪРА и сред ДЕЦАТА! Всеки, който някога се е докоснал до изкуството, има привилегията да бъде добър човек! А всеки, който е влязъл някога в Театъра, той фактически никога не го напуска! Тази любов е взаимна и вечна!
+	<div class="medium-9 columns">
+		<h2>Ана Андреева</h2> <br/>
+        <strong>учител</strong> <br/>
+        През първите месеци като преподавател в българското училище „Дора Габе“, Мюнхен не осъзнавах колко различна и специална е тази работа. Сега вече зная – това е магия и съм щастлива, че съм част от нея! Възхитително е, че родителите довеждат децата си, като всяка седмица се лишават от един почивен ден, за да поддържат българския дух, за да говорят и пишат на български, да се включват в български традиции. Дори не е толкова важно дали учениците са усвоили всички граматически правила, защото те идват тук за среща с българското!
     </div>
 </div><!-- /.row -->
 
 <div class="row">
-	<div class="medium-4 columns t30">
-		  <img class="b30" src="{{ site.urlimg }}Ana_Andreeva.jpg" alt="">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}uch.png" alt="">
 	</div><!-- /.medium-5.columns -->
-	<div class="medium-8 columns t30">
-		<h2>Ана Андреева</h2> <br/>
-        <strong>учител</strong> <br/>
-        През първите месеци като преподавател в българското училище „Дора Габе“, Мюнхен не осъзнавах колко различна и специална е тази работа. Сега вече зная – това е магия и съм щастлива, че съм част от нея! Възхитително е, че родителите довеждат децата си, като всяка седмица се лишават от един почивен ден, за да поддържат българския дух, за да говорят и пишат на български, да се включват в български традиции. Дори не е толкова важно дали учениците са усвоили всички граматически правила, защото те идват тук за среща с българското!
+	<div class="medium-9 columns">
+		<h2>Мария Николова</h2> <br/>
+        <strong>.</strong> <br/>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}uch.png" alt="">
+	</div><!-- /.medium-5.columns -->
+	<div class="medium-9 columns">
+		<h2>Красимира Миткова</h2> <br/>
+        <strong>.</strong> <br/>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}uch.png" alt="">
+	</div><!-- /.medium-5.columns -->
+	<div class="medium-9 columns">
+		<h2>Илиана Желева</h2> <br/>
+        <strong>.</strong> <br/>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}uch.png" alt="">
+	</div><!-- /.medium-5.columns -->
+	<div class="medium-9 columns">
+		<h2>Мария Димитрова</h2> <br/>
+        <strong>.</strong> <br/>
+    </div>
+</div><!-- /.row -->
+<div class="row">
+	<div class="medium-3 columns t30">
+		  <img class="b30" src="{{ site.urlimg }}uch.png" alt="">
+	</div><!-- /.medium-5.columns -->
+	<div class="medium-9 columns">
+		<h2>Юлиян Сотиров</h2> <br/>
+        <strong>.</strong> <br/>
     </div>
 </div><!-- /.row -->

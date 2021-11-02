@@ -11,7 +11,7 @@ header:
         <h3> Учебните занятия</h3>
         Учебните занятия се провеждат в <strong>събота от 9:30 ч. до 13:15 ч.</strong><br/>
         на адрес <strong>Hamburger Str 32, 80809 München.</strong><br/>
-        <a class="t60" href="{{ site.urlimg }}/Kalendar_21_22.pdf" target="blanck">Учебен календар Дора Габе 2021/2022</a><br/>
+        <a class="t60" href="{{ site.urlimg }}Kalendar_21_22.pdf" target="blanck">Учебен календар Дора Габе 2021/2022</a><br/>
         <h3>Учебни предмети</h3>
         Български език и литература<br/>
         География и икономика<br/>
@@ -41,7 +41,7 @@ header:
     <h2>Предлагаме следните класове и групи</h2>
       <div class="small-4 columns t30">
         <img class="b30" src="{{ site.urlimg }}5klas.jpg" alt="">
-        <strong>1ви до 9ти клас</strong><br/>
+        <strong>1ви до 11ти клас</strong><br/>
         Предлага обучение по български език и литература, история и география на България по адаптираните програми на министерството.<br/><br/>
     </div>
      <div class="small-4 columns t30">
