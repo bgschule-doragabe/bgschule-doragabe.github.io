@@ -10,22 +10,22 @@ permalink: "/gallerys/gallery_201910_Rupolding/"
 # Gallery
 #
 image:
-   thumb: "201910_Rupolding/201910_Rupolding/Rupolding1904-thumb.jpg"
+   thumb: "201910_Rupolding/Rupolding1904-thumb.jpg"
 gallery:
-    - image_url: 201910_Rupolding/rupolding1901.jpg
-    - image_url: 201910_Rupolding/rupolding1902.jpg
-    - image_url: 201910_Rupolding/rupolding1903.jpg
-    - image_url: 201910_Rupolding/rupolding1904.jpg
-    - image_url: 201910_Rupolding/rupolding1905.jpg
-    - image_url: 201910_Rupolding/rupolding1906.jpg
-    - image_url: 201910_Rupolding/rupolding1907.jpg
-    - image_url: 201910_Rupolding/rupolding1908.jpg
-    - image_url: 201910_Rupolding/rupolding1909.jpg
-    - image_url: 201910_Rupolding/rupolding1910.jpg
-    - image_url: 201910_Rupolding/rupolding1911.jpg
-    - image_url: 201910_Rupolding/rupolding1912.jpg
-    - image_url: 201910_Rupolding/rupolding1913.jpg
-    - image_url: 201910_Rupolding/rupolding1914.jpg
+    - image_url: 201910_Rupolding/Rupolding1901.jpg
+    - image_url: 201910_Rupolding/Rupolding1902.jpg
+    - image_url: 201910_Rupolding/Rupolding1903.jpg
+    - image_url: 201910_Rupolding/Rupolding1904.jpg
+    - image_url: 201910_Rupolding/Rupolding1905.jpg
+    - image_url: 201910_Rupolding/Rupolding1906.jpg
+    - image_url: 201910_Rupolding/Rupolding1907.jpg
+    - image_url: 201910_Rupolding/Rupolding1908.jpg
+    - image_url: 201910_Rupolding/Rupolding1909.jpg
+    - image_url: 201910_Rupolding/Rupolding1910.jpg
+    - image_url: 201910_Rupolding/Rupolding1911.jpg
+    - image_url: 201910_Rupolding/Rupolding1912.jpg
+    - image_url: 201910_Rupolding/Rupolding1913.jpg
+    - image_url: 201910_Rupolding/Rupolding1914.jpg
 
 
 #

@@ -44,7 +44,6 @@ header:
 За Вашата помощ и занапред Ви благодарим от сърце,  
 Родителски съвет към Българско училище „Дора Габе“ – Мюнхен  
 
-
 <div class="small-4 columns t30">
     <img class="b30" src="{{ site.urlimg }}rs_knijen_basar.jpg" alt="">
 </div>
@@ -55,3 +54,7 @@ header:
     <img class="b30" src="{{ site.urlimg }}rs_martenici.jpg" alt="">
 </div>
 
+### Екскурзия в Руполдинг 2021
+<div class="small-4 columns t30"><a href="/gallerys/gallery_202111_Rupolding/">
+        <img src="{{ site.urlimg }}202111_Rupolding/Rupolding_2117-thumb.jpg" alt=""></a>
+        </div>
