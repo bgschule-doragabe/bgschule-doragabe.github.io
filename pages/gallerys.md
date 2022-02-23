@@ -10,6 +10,9 @@ permalink: "gallerys/"
 
 
 <ul class="small-block-grid-3 medium-block-grid-3 large-block-grid-4">
+<li><a href="/gallerys/gallery_202202_kpetkov/">
+        <img src="{{ site.urlimg }}20220223_kpetkov/image_08-thumb.jpg" alt=""></a>
+         <p>Посещение на премиера на Република България Кирил Петков</p></li>
 <li><a href="/gallerys/gallery_202111_Rupolding/">
         <img src="{{ site.urlimg }}202111_Rupolding/Rupolding_2117-thumb.jpg" alt=""></a>
          <p>Екскурзия в Руполдинг 2021</p></li>
