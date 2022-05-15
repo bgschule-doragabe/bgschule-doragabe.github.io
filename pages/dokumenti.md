@@ -27,11 +27,6 @@ header:
 <a href="/content/Sepa_Lastschriftmandat.pdf" target="_blank">SEPA-Lastschriftmandat</a>
 
 
-
-### Правилник на училището
-
-<a href="/content/Pravilnik.pdf" target="_blank">Правилник</a>
-
 ### Устав
 
 <a href="/content/Satzung.pdf" target="_blank">Устав на училище Дора Габе</a>
