@@ -11,7 +11,7 @@ header:
         <h3> Учебните занятия</h3>
         Учебните занятия се провеждат в <strong>събота от 9:30 ч. до 13:15 ч.</strong><br/>
         на адрес <strong>Hamburger Str 32, 80809 München.</strong><br/>
-        <a class="t60" href="{{ site.urlpdf }}Kalendar_21_22.pdf" target="blanck">Учебен календар Дора Габе 2021/2022</a><br/>
+        <a class="t60" href="{{ site.urlpdf }}Kalendar_22_23.pdf" target="blanck">Учебен календар Дора Габе 2022/2023</a><br/>
         <h3>Учебни предмети</h3>
         Български език и литература<br/>
         География и икономика<br/>
