@@ -1,0 +1,102 @@
+---
+layout: default
+format: frontpage
+---
+<div id="header-home">
+    <div class="row">
+        <div class="small-12 columns">
+        </div><!-- /.medium-4.columns -->
+    </div><!-- /.row -->
+</div><!-- /#header-home -->
+
+<div class="row t60" >
+    <div class="medium-12 columns">
+        <h1>Добре дошли</h1>  
+    </div>
+      <div class="medium-8 columns t30"> 
+        Българско училище в Мюнхен „Дора Габе“ е инициатива на родители и учители, коятo има за цел да предостави възможност на деца в Мюнхен да учат български език.
+        Предлагаме редовно обучение по български език и литература, география и икономика, история и цивилизация.  <br/>
+        Абонирани сме за образователен сайт №1 в България „Уча.се“ и предлагаме видео уроци и тестове, като допълнение към традиционните методи на преподаване. <br/>  
+        <strong>Адрес:</strong> Hamburger Str. 32, 80809 München <br/>
+        <strong>Имейл</strong>: <a href="mailto:info@bgschule-doragabe-muenchen.de">info@bgschule-doragabe-muenchen.de</a><br/>
+        <strong><a class="t60" href="{{ site.urlpdf }}Kalendar_22_23.pdf" target="_blanck">Учебен календар Дора Габе 2022/2023</a></strong>
+       
+        </div>
+        <div class="medium-4 columns t30">
+            <img class="b30" src="{{ site.urlimg }}nachalo.jpg" alt="">
+             <img  src="{{ site.urlimg }}Ucha_se_logo.jpg" alt="" style="position: absolute; bottom:1.8375rem;left:0.9375rem;" width="75px;">
+      </div><!-- /.medium-5.columns -->
+      <div class="medium-8 columns t30"> 
+        Скъпи приятели,  <br/>
+        
+        с радост споделяме още едно признание за работата ни, а именно <strong>наградата за БУ Дора Габе от  "Уча се" за иновативно българско училище зад граница.</strong>
+        Нашият специален училищен код е: <strong>doragabe</strong>. С него можете да добавите още един <strong>допълнителен безплатен месец</strong>, към активния си абонамент.   
+        <br/>
+        Приятно учене :)  <br/>
+        </div>
+        <div class="medium-4 columns t30">
+            <a href="{{ site.urlimg }}uchase_kod.png" target="_blank"><img src="{{ site.urlimg }}uchase_kod-tumb.png" alt=""></a>
+            <a href="{{ site.urlimg }}uchase_kod2.png" target="_blank"><img src="{{ site.urlimg }}uchase_kod2-tumb.png" alt=""></a>        
+                
+      </div>
+</div>
+
+
+{% comment %}
+*
+* First check, if there are any posts at all
+*
+{% endcomment %}
+
+{% unless site.posts == empty %}
+    <div class="row t30 b20 homepage">
+        <div class="small-12 columns">
+            {% for post in site.posts limit:1 %}
+            {% if post.image.homepage %}
+            <p>
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
+            </p>
+
+            {% if post.image.caption_url and post.image.caption %}
+            <p class="text-right caption">
+                <a href="{{ post.image.caption_url }}">{{ post.image.caption }}</a>
+            </p>
+            {% endif %}
+            {% else post.image.homepage == NULL %}
+            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            {% endif %}
+            {% endfor %}
+        </div><!-- /.small-12.columns -->
+    </div><!-- /.row -->
+
+
+    <div class="row">
+        <div class="medium-6 columns">
+            {% for post in site.posts limit:2 %}
+            {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
+            <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+            <p>
+                {% if post.meta_description %}{{ post.meta_description | strip_html | escape }}{% else post.teaser %}{{ post.teaser | strip_html | escape }}{% endif %}
+                <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="Read {{ post.title | escape_once }}"><strong>{{ site.data.language.read_more }}</strong></a>
+            </p>
+            {% endfor %}
+        </div><!-- /.medium-5.columns -->
+
+
+        <div class="medium-6 columns">
+            <p><strong>{{ site.data.language.more_articles }}</strong></p>
+            {% include list-posts entries='3' offset='1' %}
+        </div><!-- /.medium-7.columns -->
+    </div><!-- /.row -->
+{% endunless %}
+
+
+{% comment %}
+*
+* Finally, if there is content, spit it out.
+*
+{% endcomment %}
+
+<div class="row">
+    {{ content }}
+</div><!-- /.row -->
