@@ -1,0 +1,80 @@
+---
+layout: default
+format: post
+---
+<div class="row">
+	<div class="medium-12 columns{% if page.sidebar == NULL %} end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
+		<article itemscope itemtype="http://schema.org/Article">
+			<header>
+				{% if page.image.title %}
+				<figure>
+					<img src="{{ site.urlimg }}{{ page.image.title }}" width="970" alt="{{ page.title | escape_once }}" itemprop="image">
+
+					{% if page.image.caption_url and page.image.caption %}
+					<figcaption class="text-right">
+						<a href="{{ page.image.caption_url }}">{{ page.image.caption }}</a>
+					</figcaption>
+					{% elsif page.image.caption %}
+					<figcaption class="text-right">
+						{{ page.image.caption }}
+					</figcaption>
+					{% endif %}
+				</figure>
+				{% endif %}
+
+				<div itemprop="name">
+					{% if page.subheadline %}<p class="subheadline">{{ page.subheadline }}</p>{% endif %}
+					<h1>{{ page.title }}</h1>
+				</div>
+			</header>
+
+
+			{% if page.teaser %}
+			<p class="teaser" itemprop="description">
+				{{ page.teaser }}
+			</p>
+			{% endif %}
+
+			<div itemprop="articleSection">
+                <div class="row">
+                    <div class="medium-4 columns t50">
+                          <img class="b30" src="{{ site.urlimg }}{{page.image.thumb}}"" alt="">
+						  <strong>28.10.2022г- 19:00 часа! <br/>
+							Вход: Свободен!</strong>  <br/>
+            Berufliches Schulzentrum an der Nordhaide   <br/>
+            Schleißheimer Str. 510  <br/>
+            80933 München  <br/>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.6167206175364!2d11.561124851239972!3d48.21399805371221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479e714b57a393c7%3A0x3a0c10d23b22e0c8!2sBerufliches%20Schulzentrum%20an%20der%20Nordhaide!5e0!3m2!1sde!2sde!4v1666167853586!5m2!1sde!2sde" width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div><!-- /.medium-5.columns -->
+                    <div class="medium-8 columns t50">
+                        {{ content }}
+                    </div>
+                </div><!-- /.row -->
+
+			
+			</div>
+
+			{% if page.show_meta == true %}
+			{% include _meta_information.html %}
+			{% endif %}
+
+			{% if page.comments == true %}
+			{% include _comments.html %}
+			{% endif %}
+		</article>
+	</div><!-- /.medium-8.columns -->
+
+
+	{% if page.sidebar == "left" %}
+	<div class="medium-4 columns medium-pull-8">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+
+
+	{% if page.sidebar == "right" %}
+	<div class="medium-4 columns">
+		{% include _sidebar.html %}
+	</div><!-- /.medium-4.columns -->
+	{% endif %}
+</div><!-- /.row -->
