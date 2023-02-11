@@ -3,7 +3,7 @@ layout: page
 title: "Ние учителите"
 permalink: "uchilisteto/nie_uchitelite/"
 header:
-    image_fullwidth: "uchiteli.jpg"
+    image_fullwidth: "uchiteli23.jpg"
 ---
 
 

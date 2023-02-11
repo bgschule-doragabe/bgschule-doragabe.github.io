@@ -7,11 +7,13 @@
   side: left
 
 - title: "Училището"
-  url: "/uchilisteto/za_nas/"
+  url: "/uchilisteto/uchebna_deinost/"
   side: left
   dropdown:
-  - title: "За нас"
-    url: "/uchilisteto/za_nas/"
+  - title: "Учебна дейност"
+    url: "/uchilisteto/uchebna_deinost/"
+  - title: "Административни въпроси"
+    url: "/uchilisteto/adminis/"
   #- title: "Редовни занятия и предмети"
   #  url: "/uchilisteto/redovni_zanatia/"
   #- title: "Педя човек"
@@ -35,17 +37,20 @@
 - title: "Галерия"
   url: "/gallerys/"
   side: left
- 
+- title: "Дарения"
+  url: "/donation/"
+  side: left
 - title: "Разни"
-  url: "/razni/donation/"
+  url: "/razni/medien/"
   side: left
   dropdown:
+    - title: "Интервюта и медийни изяви"
+      url: "/razni/medien/"
     - title: "Бюлетин"
       url: "/razni/newsletter/"
-    - title: "Дарения"
-      url: "/razni/donation/"
     - title: "Полезни връзки"
       url: "/razni/links/"
+
 
 # - title: Календар
 #   url: "/kalendar/"
