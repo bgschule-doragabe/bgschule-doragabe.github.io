@@ -26,8 +26,8 @@ author: ElenaSap
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://bgschule-doragabe.github.io/'
-url: 'https://bgschule-doragabe-muenchen.de'
+url: 'https://bgschule-doragabe.github.io/'
+#url: 'https://bgschule-doragabe-muenchen.de'
 baseurl: ''   
 #'/feeling-responsive'
 
@@ -42,9 +42,10 @@ improve_content: https://github.com/bgschule-doragabe/bgschule-doragabe.github.i
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlpdf: 'https://bgschule-doragabe-muenchen.de/content/'
-urlimg: 'https://bgschule-doragabe-muenchen.de/content/images/'
-#urlimg: 'https://bgschule-doragabe.github.io/content/images/'
+#urlpdf: 'https://bgschule-doragabe-muenchen.de/content/'
+#urlimg: 'https://bgschule-doragabe-muenchen.de/content/images/'
+urlpdf: 'https://bgschule-doragabe.github.io/content/'
+urlimg: 'https://bgschule-doragabe.github.io/content/images/'
 #'https://phlow.github.io/feeling-responsive/images/'
 
 
