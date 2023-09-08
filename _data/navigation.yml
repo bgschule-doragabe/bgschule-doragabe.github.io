@@ -24,6 +24,8 @@
     url: "/uchilisteto/roditelski_suvet/"
   - title: "Документи"
     url: "/uchilisteto/dokumenti/"
+  #- title: "РАЗПРЕДЕЛЕНИЕ 23/24"
+  #  url: "/uchilisteto/razpredelenie/"
 
 - title: "Дружеството"
   url: "/drujestvoto/"
